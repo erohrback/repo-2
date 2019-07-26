@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4C81-6EA7
+
+ Directory of C:\Users\jorda\Documents\School\MyProject
+
+07/26/2019  04:46 PM    <DIR>          .
+07/26/2019  04:46 PM    <DIR>          ..
+07/26/2019  04:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,349,163,008 bytes free
